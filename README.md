@@ -1,4 +1,4 @@
-Cybersecurity challenges created for a Royal Holloway Cyber Security Society CTF in spring attended by 30+ students.
+Cybersecurity challenges created for a Royal Holloway Cyber Security Society CTF in spring attended by 60+ students.
 
 Technologies: Docker, HTML/CSS/JS, networking/security tooling
 
